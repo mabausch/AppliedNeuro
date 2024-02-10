@@ -1,1 +1,1 @@
-Sitemap: /Test/sitemap.xml
+Sitemap: /AppliedNeuro/sitemap.xml
