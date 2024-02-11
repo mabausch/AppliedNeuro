@@ -42,7 +42,8 @@
   }
   .feature-image {
     width: unset;
-    max-width: 400px;
+    max-width: 266.6666666667px;
+    position: relative;
   }
 }
 
