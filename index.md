@@ -7,13 +7,11 @@ Our lab combines neuroscience, medicine and cutting-edge technology for the stud
 With custom neurotechnologies, including our innovative mobile ear-EEG, we investigate how the brain is shapesd by internal and external landscapes,
 aiming to transform these discoveries into real-world applications. 
 
-{% include section.html %}
+{% include section.html 
+  youtube MHFuaaGpGKQ
+%}
 
 ## Highlights
-
-{%
-![](//images/inearEEG_demo.mp4)
-%}
 
 
 {% capture text %}
