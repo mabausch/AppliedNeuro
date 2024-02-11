@@ -9,9 +9,8 @@ aiming to transform these discoveries into real-world applications.
 
 {% include section.html %}
 
-
 ## Highlights
-
+<iframe width="420" height="315" src="http://www.youtube.com/embed/MHFuaaGpGKQ" frameborder="0" allowfullscreen></iframe>
 
 {% capture text %}
 
