@@ -67,7 +67,7 @@ Add projects.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Join a collaborative and interdisciplinary team dedicated to advancing the frontiers of neuroscience through innovative research and shared expertise.
 
 {%
   include button.html
