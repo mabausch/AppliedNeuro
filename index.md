@@ -26,7 +26,7 @@ Our lab delves into the core brain functions of memory and sleep, studying both 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/sokolov_overview_plot.png"
   link="research"
   title="Our Research"
   text=text
