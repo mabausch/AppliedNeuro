@@ -48,6 +48,7 @@ $wrap: 800px;
 
   .feature-image {
     width: unset;
-    max-width: calc($wrap / 2);
+    max-width: calc($wrap / 3);
+	position: relative;
   }
 }
