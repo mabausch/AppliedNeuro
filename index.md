@@ -10,7 +10,7 @@ aiming to transform these discoveries into real-world applications.
 {% include section.html %}
 
 ## Highlights
-<iframe width="640" height="640" src="//www.youtube.com/embed/MHFuaaGpGKQ" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="700" height="540" src="//images/inearEEG_demo.mp4" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 {% capture text %}
 
