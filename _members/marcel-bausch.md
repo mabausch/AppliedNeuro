@@ -1,7 +1,7 @@
 ---
 name: Marcel Bausch
 image: images/MB_profile.jpg
-role: pi
+role: pi1
 aliases:
   - M Bausch
   - M. Bausch
