@@ -17,7 +17,7 @@ We investigate brain functions of epilepy patients and healthy subjects, both in
 focusing on how internal (arousal, breathing) and external (activities, environments) contexts affect epilepsy and memory. 
 Our research integrates intracranial recordings, EEGs, and tailored wearables, using neurotechnologies like mobile ear-EEGs 
 to discover new neuroscience insights and apply them practically. 
-We devise innovative solutions, from microelectronic components to advanced sensor systems, enabling a comprehensive view 
+We devise innovative solutions, from bare electronic components to advanced sensor systems, enabling a comprehensive view 
 of brain activity from individual neurons to complex behaviors, and crafting effective interventions for clinical challenges.
 
 {%
