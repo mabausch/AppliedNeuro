@@ -3,6 +3,7 @@ name: Example Member
 image: images/photo.jpg
 description: Lead Programmer
 role: programmer
+pos : 0
 links:
   email: test.mail@test.com
 ---

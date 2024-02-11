@@ -11,8 +11,8 @@ Contribute to our lab's mission to explore the frontiers of epilepsy and memory 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: 1pi" %}
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="pos: 1" %}
+{% include list.html data="members" component="portrait" filters="pos: 2" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
