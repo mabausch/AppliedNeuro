@@ -1,9 +1,11 @@
 ---
 ---
 
-# Bausch / Jordan - Applied Neuroscience and Neurotechnologies
+# Bausch / Jordan lab
 
-Our lab stands at the forefront of neuroscience, blending medicine and cutting-edge technology to explore the depths of memory and sleep in both epileptic and healthy individuals. By harnessing custom neurotechnologies, including our innovative mobile ear-EEG, we unlock novel insights into how the brain navigates internal and external landscapes, aiming to transform these discoveries into real-world applications. 
+Our lab combines neuroscience, medicine and cutting-edge technology for the study of epilepsy and cognitive functions such as memory in the field. 
+By harnessing custom neurotechnologies, including our innovative mobile ear-EEG, we investigate how the brain is shapesd by internal and external landscapes,
+aiming to transform these discoveries into real-world applications. 
 
 {% include section.html %}
 
@@ -11,7 +13,12 @@ Our lab stands at the forefront of neuroscience, blending medicine and cutting-e
 
 {% capture text %}
 
-Our lab delves into the core brain functions of memory and sleep, studying both epileptic patients and healthy subjects, in clinical environments and in daily life. We focus on examining how internal factors (such as arousal and respiration) and external factors (like daily activities and environmental contexts) influence epilepsy and cognitive processes. Our research methodology integrates data from intracranial recordings, surface EEGs, and custom-designed multimodal wearables to explore these dynamics. Utilizing cutting-edge neurotechnologies, including a versatile, mobile ear-EEG, our goal is to uncover groundbreaking insights into neuroscience and apply these findings in practical settings. Leveraging our interdisciplinary expertise spanning medicine, neuroscience, and technology, we devise innovative solutions, from microelectronic components to advanced sensor systems. This approach allows us to gain a holistic view of brain activity, from the level of individual neurons to complex behaviors, and to develop effective interventions for clinical challenges.
+We investigate brain functions of epilepy patients and healthy subjects, both in the clinic and in daily environments, 
+focusing on how internal (arousal, breathing) and external (activities, environments) contexts affect epilepsy and memory. 
+Our research integrates intracranial recordings, EEGs, and tailored wearables, using neurotechnologies like mobile ear-EEGs 
+to discover new neuroscience insights and apply them practically. 
+We devise innovative solutions, from microelectronic components to advanced sensor systems, enabling a comprehensive view 
+of brain activity from individual neurons to complex behaviors, and crafting effective interventions for clinical challenges.
 
 {%
   include button.html
@@ -30,6 +37,8 @@ Our lab delves into the core brain functions of memory and sleep, studying both 
   link="research"
   title="Our Research"
   text=text
+  style="bare"
+ 
 %}
 
 {% capture text %}
