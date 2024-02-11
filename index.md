@@ -43,7 +43,9 @@ of brain activity from individual neurons to complex behaviors, and crafting eff
 
 {% capture text %}
 
-Add projects.
+Explore real-world multi-modal datasets to understand both epilepsy and memory in daily life.
+
+
 {%
   include button.html
   link="projects"
