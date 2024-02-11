@@ -33,7 +33,7 @@ of brain activity from individual neurons to complex behaviors, and crafting eff
 
 {%
   include feature.html
-  image="images/sokolov_overview_plot.png"
+  image="images/concept_relations.webp"
   link="research"
   title="Our Research"
   text=text
@@ -57,7 +57,7 @@ Add projects.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/sokolov_overview_plot.png"
   link="projects"
   title="Our Projects"
   flip=true
