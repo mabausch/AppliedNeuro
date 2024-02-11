@@ -42,8 +42,16 @@
   }
   .feature-image {
     width: unset;
-    max-width: 266.6666666667px;
-    position: relative;
+    max-width: 400px;
+  }
+}
+@media (max-width: 300px) {
+  .feature {
+    flex-direction: column !important;
+  }
+  .feature-image {
+    width: 280px;
+    max-width: 150px;
   }
 }
 
