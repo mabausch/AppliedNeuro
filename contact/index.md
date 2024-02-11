@@ -17,18 +17,18 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   text="marcel.bausch.ukb@gmail.com"
   link="marcel.bausch.ukb@gmail.com"
 %}
-#{%
-#  include button.html
-#  type="phone"
-#  text="(555) 867-5309"
-#  link="+1-555-867-5309"
-#%}
-#{%
-#  include button.html
-#  type="address"
-#  tooltip="Our location on Google Maps for easy navigation"
-#  link="https://www.google.com/maps"
-#%}
+{%
+  include button.html
+  type="phone"
+  text="(555) 867-5309"
+  link="+1-555-867-5309"
+%}
+{%
+  include button.html
+  type="address"
+  tooltip="Our location on Google Maps for easy navigation"
+  link="https://www.google.com/maps"
+%}
 
 {% include section.html %}
 
