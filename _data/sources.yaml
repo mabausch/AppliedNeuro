@@ -1,7 +1,12 @@
 - id: doi:10.1038/s41467-021-26327-3
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-26327-3/MediaObjects/41467_2021_26327_Fig1_HTML.png?as=webp
   
-  - id: doi:10.1038/s41467-023-38190-5
+- id: doi:10.1038/s41467-023-38190-5
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-38190-5/MediaObjects/41467_2023_38190_Fig1_HTML.png?as=webp
   
-  
+- id: doi:10.1371/journal.pbio.3000290
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3000290.g002
+ 
+- id: doi:10.1093/cercor/bhx330
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/29/1/10.1093_cercor_bhx330/3/bhx330f02.jpeg?Expires=1710651363&Signature=ObW8BsTBd2ltfKYrx3KGEb8wBJfSK1y4-u6C-RrjJmV9jLBMFWbQgD~3Zj0GIbxOlhcJSydLC1WwHUxoxatmGOmRdVKoYLKluXTnQde4IuDFf4iy3EJ6sjGJG4vxZlqHuMWlYy6nUGLrq28AU74WXF~v4iBS5RZZ4zWnNNsUDsc5wWv9OCnlNXPR4BxqmiiKr6Q57G6HdjHMetN~HBgHAjbfReeSvXQHBWmI-Fr~cjLpK720axzlC~WW7a4hkHj6BJLhA~bPMCibo7vRNLQeNta10K0qt~4wjoWtZ-yY0uKKbDg333PZVfeWI0DOsO0ZK0Td8m4PCAsIOGYqOEK1-g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+   
