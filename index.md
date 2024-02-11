@@ -10,7 +10,12 @@ aiming to transform these discoveries into real-world applications.
 {% include section.html %}
 
 ## Highlights
-<iframe width="280" height="216" src="./images/inearEEG_demo.mp4" frameborder="0" allow="autoplay">&nbsp;</iframe>
+<div id="parent">
+    <div id="wrapper" style="position:relative">
+        <iframe style="position:absolute;top:0px;width:100%;height:100vh;" src="./images/inearEEG_demo.mp4" frameborder="0" allow="autoplay">&nbsp;</iframe>
+    </div>
+</div>
+
 
 {% capture text %}
 
