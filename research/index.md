@@ -13,7 +13,7 @@ Our lab delves into the core brain functions of memory and sleep, studying both 
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Concept" style="rich" %}
 
 {% include section.html %}
 
