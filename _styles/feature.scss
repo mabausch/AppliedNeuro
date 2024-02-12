@@ -54,7 +54,7 @@ $wrap: 800px;
 
 @media (max-width: 400px) {
   .feature-image {
-     flex-direction: column;
+    flex-direction: column;
     width: 90%;
     max-width: calc(400px / 2);
   }
