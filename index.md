@@ -4,7 +4,7 @@
 # Bausch / Jordan lab
 
 Our lab combines neuroscience, medicine and cutting-edge technology for the study of epilepsy and cognitive functions such as memory in the field. 
-With custom neurotechnologies, including our innovative mobile ear-EEG, we investigate how the brain is shapesd by internal and external landscapes,
+With custom neurotechnologies, including our innovative mobile ear-EEG, we investigate how the brain is shaped by internal and external landscapes,
 aiming to transform these discoveries into real-world applications. 
 
 {% include section.html %}
