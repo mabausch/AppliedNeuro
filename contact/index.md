@@ -7,8 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please reach out if you're interested in joining the lab, want to collaborate or have questions.
- 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 {%
   include button.html
   type="email"
@@ -30,8 +32,40 @@ Please reach out if you're interested in joining the lab, want to collaborate or
 
 {% include section.html %}
 
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Under construction"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Under construction"
+%}
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
+
+{% capture col1 %}
+Under construction
+{% endcapture %}
+
+{% capture col2 %}
+Under construction
+{% endcapture %}
+
+{% capture col3 %}
+Under construction
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
