@@ -1,6 +1,6 @@
 ---
 name: Arthur Jordan
-image: images/photo.jpg
+image: images/profile_AJ.png
 role: pi
 pos: 2
 links:
