@@ -22,9 +22,7 @@ Contribute to our lab's mission to explore the frontiers of epilepsy and memory 
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/TRA_image.png" %}
 
 {% endcapture %}
 
