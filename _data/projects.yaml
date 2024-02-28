@@ -1,10 +1,8 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: EEG 2.0 for Epilepsy + Memory Research
+  subtitle: Arousal and Eye Movements
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Soon there will be new Projects here!
-  repo: BigCorvus
+  image: images/arousal_eye_project.png
+  description: The project aims to enhance epilepsy monitoring and memory research by integrating continuous monitoring of eye movements and arousal levels with traditional EEG/EOG data. 
   tags:
     - resource
 
