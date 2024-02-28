@@ -87,7 +87,7 @@ Join a collaborative and interdisciplinary team dedicated to advancing the front
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_pic.png"
   link="team"
   title="Our Team"
   text=text

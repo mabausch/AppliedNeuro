@@ -4,5 +4,15 @@
   image: images/arousal_eye_project.png
   description: The project aims to enhance epilepsy monitoring and memory research by integrating continuous monitoring of eye movements and arousal levels with traditional EEG/EOG data. 
   tags:
-    - resource
+    - arousal
+    - eye movements
+
+- title: Mobile sleep lab
+  subtitle: 
+  group: featured
+  image: images/mobile_sleep.png
+  description: Memory reinstatement and epilepsy monitoring with mobile sleep lab. 
+  tags:
+    - sleep
+
 
