@@ -20,7 +20,6 @@ Contribute to our lab's mission to explore the frontiers of epilepsy and memory 
 
 {% include section.html %}
 
-{% capture content %}
 
 <div>
 <a href="https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-1-modelling/home"><img src="/../AppliedNeuro/images/TRA_image.png" width="150" height="150" alt=""></a>
