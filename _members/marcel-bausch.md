@@ -18,5 +18,5 @@ My current work is an extension of previous studies on epilepsy and autonomic re
 
 Bringing my expertise in experimental design, high-dimensional data analysis, and programming, I'm deeply invested in mentoring our next generation of scientists and pushing forward our collaborative projects. Together with Mr. Jordan, we're developing wearable technologies, like our innovative ear-EEG, to bring our neurological research directly into the daily lives of those we study. Our mission is to harness the intersection of neuroscience, technology, and medicine to discover groundbreaking approaches to understanding and treating epilepsy and memory disorders.
 <div>
-<img src="/../AppliedNeuro/images/TRA_image.png" width="150" height="150" alt="" link="https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-1-modelling/home">
+<a href="https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-1-modelling/home"><img src="/../AppliedNeuro/images/TRA_image.png" width="50" height="50" alt=""></a>
 </div>
