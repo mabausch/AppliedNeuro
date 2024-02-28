@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Under Construction.
+Connect with us to learn more about our work or explore PhD and thesis opportunities in our dynamic research environment.
 
 {%
   include button.html
@@ -34,36 +34,15 @@ Under Construction.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Under construction"
+  image="images/epi_building.png"
+  caption="Epileptologie Bonn"
+  link="https://www.ukbonn.de/epileptologie"
 %}
 
 {% endcapture %}
 
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Under construction"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 %}
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Under construction
-{% endcapture %}
 
-{% capture col2 %}
-Under construction
-{% endcapture %}
-
-{% capture col3 %}
-Under construction
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
