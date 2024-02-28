@@ -12,7 +12,7 @@ Under Construction.
 {%
   include button.html
   type="email"
-  text="marcel.bausch.ukb@gmail.com"
+  text="contact us"
   link="marcel.bausch.ukb@gmail.com"
 %}
 {%
@@ -23,9 +23,9 @@ Under Construction.
 %}
 {%
   include button.html
-  type="Venusberg Campus 1, 53127 Bonn"
+  type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/a3whrcmz5FuJ9V2D8"
 %}
 
 {% include section.html %}
