@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Contribute to our lab's mission to explore the frontiers of epilepsy and memory neuroscience, employing neurotechnologies in both clinical settings and the field. We're looking for motivated individuals to join our interdisciplinary team, focused on innovative research. Start your journey with us and discover the impact you can make.
+Contribute to our lab's mission to explore the frontiers of epilepsy and memory neuroscience, employing neurotechnologies in both clinical settings and the field. We're looking for motivated individuals to join our interdisciplinary team, focused on innovative research. Start your journey with us and <a href="../contact"> discover the impact you can make.</a>
 
 {% include section.html %}
 
@@ -23,7 +23,7 @@ Contribute to our lab's mission to explore the frontiers of epilepsy and memory 
 {% capture content %}
 
 {% include figure.html %}
-{% include figure.html image="images/TRA_image.png" width="50" height="50" link="https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-1-modelling/home" %}
+{% include figure.html image="images/TRA_image_big.png" width="50" height="50" link="https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-1-modelling/home" %}
 {% include figure.html %}
 
 {% endcapture %}
