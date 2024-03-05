@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Welcome to our Projects page, where we present a selection of our research initiatives (under construction).
+Welcome to our Projects page, where we present a selection of our research initiatives.
 
 {% include tags.html tags="publication, resource, website" %}
 

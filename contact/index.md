@@ -35,7 +35,7 @@ Connect with us to learn more about our work or explore PhD and thesis opportuni
 {%
   include figure.html
   image="images/epi_building.png"
-  caption="Epileptologie Bonn"
+  caption="Department of Epileptology, University Clinic Bonn"
   link="https://www.ukbonn.de/epileptologie"
 %}
 
