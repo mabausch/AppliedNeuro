@@ -1,5 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-024-52295-5
+  title: "Concept and location neurons in the human brain provide the \u2018what\u2019\
+    \ and \u2018where\u2019 in memory formation"
+  authors:
+  - Sina Mackay
+  - Thomas P. Reber
+  - Marcel Bausch
+  - "Jan Bostr\xF6m"
+  - Christian E. Elger
+  - Florian Mormann
+  publisher: Nature Communications
+  date: '2024-09-10'
+  link: https://doi.org/g85hw6
+  orcid: 0000-0002-0188-3816
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ebr.2024.100657
+  title: "Short-term effects of transcutaneous auricular vagus nerve stimulation on\
+    \ T-wave alternans in people with focal epilepsy \u2013 An exploratory pilot study"
+  authors:
+  - Jan Pukropski
+  - Jan Baumann
+  - Arthur Jordan
+  - Marcel Bausch
+  - Randi von Wrede
+  - Rainer Surges
+  publisher: Epilepsy &amp; Behavior Reports
+  date: '2024-01-01'
+  link: https://doi.org/gtp935
+  orcid: 0000-0002-0188-3816
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-023-38190-5
   title: Single-neuron mechanisms of neural adaptation in the human temporal lobe
   authors:
