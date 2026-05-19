@@ -18,8 +18,8 @@ Connect with us to learn more about our work or explore PhD and thesis opportuni
 {%
   include button.html
   type="phone"
-  text="0228 287 16912"
-  link="+49228 287 16912"
+  text="0228 287 16110"
+  link="+49228 287 16110"
 %}
 {%
   include button.html
@@ -36,7 +36,7 @@ Connect with us to learn more about our work or explore PhD and thesis opportuni
   include figure.html
   image="images/epi_building.png"
   caption="Department of Epileptology, University Clinic Bonn"
-  link="https://www.ukbonn.de/epileptologie"
+  link="https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-bausch-jordan-angewandte-neurowissenschaften-und-neurotechnologien/"
 %}
 
 {% endcapture %}
