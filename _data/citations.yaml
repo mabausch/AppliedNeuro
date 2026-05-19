@@ -14,8 +14,12 @@
   date: '2026-01-07'
   link: https://doi.org/hbh4wf
   orcid: 0000-0002-0188-3816
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-09910-2/MediaObjects/41586_2025_9910_Fig1_HTML.png?as=webp
+  tags:
+  - Highlight
+  - Nature
 - id: doi:10.64898/2026.01.10.698827
   title: Episodic memory consolidation by reactivation of human concept neurons during
     sleep reflects contents, not sequence of events
@@ -49,8 +53,12 @@
   date: '2024-09-10'
   link: https://doi.org/g85hw6
   orcid: 0000-0002-0188-3816
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-52295-5/MediaObjects/41467_2024_52295_Fig1_HTML.png?as=webp
+  tags:
+  - Highlight
+  - Nature
 - id: doi:10.1016/j.ebr.2024.100657
   title: "Short-term effects of transcutaneous auricular vagus nerve stimulation on\
     \ T-wave alternans in people with focal epilepsy \u2013 An exploratory pilot study"
@@ -174,4 +182,7 @@
   orcid: 0000-0002-0188-3816
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/29/1/10.1093_cercor_bhx330/3/bhx330f02.jpeg?Expires=1710651363&Signature=ObW8BsTBd2ltfKYrx3KGEb8wBJfSK1y4-u6C-RrjJmV9jLBMFWbQgD~3Zj0GIbxOlhcJSydLC1WwHUxoxatmGOmRdVKoYLKluXTnQde4IuDFf4iy3EJ6sjGJG4vxZlqHuMWlYy6nUGLrq28AU74WXF~v4iBS5RZZ4zWnNNsUDsc5wWv9OCnlNXPR4BxqmiiKr6Q57G6HdjHMetN~HBgHAjbfReeSvXQHBWmI-Fr~cjLpK720axzlC~WW7a4hkHj6BJLhA~bPMCibo7vRNLQeNta10K0qt~4wjoWtZ-yY0uKKbDg333PZVfeWI0DOsO0ZK0Td8m4PCAsIOGYqOEK1-g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: 'https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/29/1/10.1093_cercor_bhx330/3/bhx330f02.jpeg?Expires=1710651363&Signature=ObW8BsTBd2ltfKYrx3KGEb8wBJfSK1y4-u6C-RrjJmV9jLBMFWbQgD~3Zj0GIbxOlhcJSydLC1WwHUxoxatmGOmRdVKoYLKluXTnQde4IuDFf4iy3EJ6sjGJG4vxZlqHuMWlYy6nUGLrq28AU74WXF~v4iBS5RZZ4zWnNNsUDsc5wWv9OCnlNXPR4BxqmiiKr6Q57G6HdjHMetN~HBgHAjbfReeSvXQHBWmI-Fr~cjLpK720axzlC~WW7a4hkHj6BJLhA~bPMCibo7vRNLQeNta10K0qt~4wjoWtZ-yY0uKKbDg333PZVfeWI0DOsO0ZK0Td8m4PCAsIOGYqOEK1-g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+
+    --- NEWLY ADDED PUBLICATIONS BELOW ---'
