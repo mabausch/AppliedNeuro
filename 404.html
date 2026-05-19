@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // Grab the current broken URL the user tried to visit
+    const currentUrl = window.location.href;
+
+    // Check if it ends with the literal string "&nbsp;" or the URL-encoded space "%C2%A0"
+    if (currentUrl.endsWith('&nbsp;') || currentUrl.endsWith('%C2%A0') || currentUrl.endsWith('%C2%A0/')) {
+      // Instantly redirect to the correct, clean URL
+      window.location.replace('https://mabausch.github.io/AppliedNeuro/');
+    }
+  </script>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 50px; }
+  </style>
+</head>
+<body>
+  <h1>Page Not Found</h1>
+  <p>If you are not redirected automatically, <a href="https://mabausch.github.io/AppliedNeuro/">click here to go to the AppliedNeuro homepage</a>.</p>
+</body>
+</html>
