@@ -14,12 +14,18 @@
   date: '2026-01-07'
   link: https://doi.org/hbh4wf
   orcid: 0000-0002-0188-3816
+<<<<<<< HEAD
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-09910-2/MediaObjects/41586_2025_9910_Fig1_HTML.png?as=webp
   tags:
   - Highlight
   - Nature
+=======
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-09910-2/MediaObjects/41586_2025_9910_Fig1_HTML.png?as=webp
+>>>>>>> 8b2037c (publications updated)
 - id: doi:10.64898/2026.01.10.698827
   title: Episodic memory consolidation by reactivation of human concept neurons during
     sleep reflects contents, not sequence of events
