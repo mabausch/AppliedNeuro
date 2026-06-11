@@ -11,6 +11,8 @@ aiming to transform these discoveries into real-world applications.
 
 ## Highlights
 
+<iframe style="position:relative;top:0px;width:90%;height:40vh;" src="./images/world_with_eeg_and_eyetracker_sync_demo_mediumres.mp4" frameborder="0" allow="autoplay">&nbsp;</iframe>
+
 <iframe style="position:relative;top:0px;width:90%;height:40vh;" src="./images/inearEEG_demo.mp4" frameborder="0" allow="autoplay">&nbsp;</iframe>
 
 
